@@ -1,0 +1,6 @@
+/src/com/*
+/gen/*
+/bin/*
+/.hg/*
+/.hgignore
+/COPYING
